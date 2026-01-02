@@ -1,1 +1,1 @@
-# dmml-lab
+Data mining and machine learning are fields that focus on extracting patterns and knowledge from large datasets using algorithms and statistical methods. They are often used together to analyze data, make predictions, and discover insights in various applications.
